@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.game-box {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    margin: 1rem;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.abcd {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    justify-content: center;
+}
+
+.red {
+    background-color: #d95980;
+}
+
+.yellow {
+    background-color: #f99b45;
+}
+
+.green {
+    background-color: #63aac0;
+}
+
+.purple {
+    background-color: #819ff9;
+}
+
+.flash {
+    background-color: white;
+}
+.userflash{
+    background-color: aquamarine;
+}
